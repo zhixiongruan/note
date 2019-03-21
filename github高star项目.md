@@ -35,6 +35,3 @@
 | gitignore                   | 工具      | gitignore大全                                                | [https://github.com/github/gitignore](https://github.com/github/gitignore) |
 | octotree                    | 插件      | github属性菜单                                               | https://github.com/buunguyen/octotree                        |
 
-
-https://github.com/search?q=stars%3A%3E10000&type=Code
-https://github.com/trending/java?since=monthly 
